@@ -1,0 +1,15 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Learn Angular",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id": 2,
+            "title": "Learn VueJS 3",
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+    ],
+    "users": []
+}
